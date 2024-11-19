@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # -*- coding: utf-8 -*-
 """Worldle-Solver.pynb
 #This is a World Game Solver Program
