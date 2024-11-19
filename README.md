@@ -21,9 +21,10 @@ Spelling Bee is a word game that puts your vocabulary skills to the test. The ga
 * Not all RIDYHEW dictionary words are legal for this game and the Oxford Dictionary costs you money.
 
 ## Wordle
-Wordle is a daily word-guessing game where you try to find a new five-letter word within six attempts. With each guess, you gain a little more information, helping you narrow down your options and eventually discover the correct answer. Everybody playing on any given day is looking for the same word. Wordle can be played online through the official Wordle website or the New York Times' Crossword app, available for both iOS and Android devices. It's completely free to play. However, if you want to access the WordleBot helper tool, you'll need to pay a fee.
+Wordle is a daily word-guessing game where you try to find a new five-letter word within six attempts. With each guess, you gain a little more information, helping you narrow down your options and eventually discover the correct answer. Everybody playing on any given day is looking for the same word. Wordle can be played online through the official Wordle website or the New York Times' Crossword app, available for both iOS and Android devices. It's completely free to play. However, if you want to access the WordleBot helper tool, you'll need to pay a fee. This code saved more than a few people's win streaks.
 * This script will narrow down your options with each bit of new data given
 * You'll have to order the letters yourself...
+* Repeat step 4 as many times as you need to (you only get 6 tries)...
 * Remember: Not all RIDYHEW dictionary words are legal for this game, the free dictionaries are incomplete, and the Oxford Dictionary costs you money.
 
 ## Why Were These Written?
