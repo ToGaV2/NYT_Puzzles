@@ -25,3 +25,6 @@ Wordle is a daily word-guessing game where you try to find a new five-letter wor
 * This script will narrow down your options with each bit of new data given
 * You'll have to order the letters yourself...
 * Remember: Not all RIDYHEW dictionary words are legal for this game, the free dictionaries are incomplete, and the Oxford Dictionary costs you money.
+
+## Why Were These Written?
+A python professor challenged me to use my time (in class) to prove that I understood the concepts he was teaching. He asked that I find and implement a real world scenario. At the same time (2021-2022) Wordle was released and many students were playing with their phones during same said class. Once the Wordle Solver was written, other puzzlers asked if I could build the other two. I share them here out of courtesy.
