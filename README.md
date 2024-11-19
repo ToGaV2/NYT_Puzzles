@@ -1,5 +1,5 @@
 # Scripts to beat the New York Times Spelling Bee, Wordle, and LetterBoxed Puzzles
-Ever had a boss, colleague, or friend challenge you to a New York Times puzzling marathon? If so, these little scripts are for you. Download these little scripts and run them on google.colab or your own machine with Python 3.9 and above. They are published in notebook format (ipynb) but run just as well from the command line (py). Keep pace with even the most experienced puzzlers...
+Ever had a boss, colleague, or friend challenge you to a New York Times puzzling marathon? If so, these little scripts are for you. Download these little scripts and run them on google.colab or your own machine with Python 3.9 and above. They are published in notebook format (ipynb) and packaged for the command line (py). Go keep pace with even the most experienced puzzlers...
 
 ## Dictionaries
 You'll need to load a dictionary to power these scripts. The New York Times puzzles use the Oxford English Dictionary (~600,000 words) exclusively (but it costs money). If a word is not accepted by a NYT game, it's absence from the Oxford Dictionary or different spelling are usually the culprit. 
