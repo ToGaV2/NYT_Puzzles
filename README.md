@@ -6,12 +6,12 @@ You'll need to load a dictionary to power these scripts. The New York Times puzz
 * Oxford Dictionary Personal Subscriptions are available here: https://www.oed.com/information/purchasing/individual-subscriptions/
 * No, I do not believe they allow you to download the wordlist. 
 
-Workarounds: The scripts below have free but incomplete dictionaries preloaded into them (~45K to ~145K wordlists). If you want more words, I suggest the RIDYHEW (ridiculously huge english word list with ~475,000 words) as another free alternative. RIDYHEW is a word list consisting of all words used in literature going back centuries. As such, many of the words in RIDYHEW are not up to the spelling standards of the Oxford English Dictionary. 
+Workarounds: The scripts below have free but incomplete dictionaries preloaded into them (~45K to ~145K wordlists). If you want more words, I suggest the RIDYHEW (ridiculously huge English word list with ~475,000 words) as another free alternative. RIDYHEW is a word list consisting of all words used in literature going back centuries. As such, many of the words in RIDYHEW are not up to the spelling standards of the Oxford English Dictionary. 
 * You can find the RIDYHEW word list here: https://codehappy.net/wordlist.htm
 * You are welcome to use any dictionary you see fit, you'll see that I've used multiple in these scripts and turn them on and off by commenting out the load scripts...
 
 ## LetterBoxed:
-The objective of LetterBoxed is to use all of the letters in as few words as possible to solve. Connect letters to spell words. Words must be at least 3 letters long. Letters can be reused, but consecutive letters cannot be from the same side. This script uses the RIDYHEW dictionary to find the fewest number of words that use all the letters. 
+The objective of LetterBoxed is use of each of the given letters, in as few words as possible. The understated goal is to solve the puzzle with only two words. Words must be at least 3 letters long. Letters can be reused, but consecutive letters cannot be from the same side. This script benefits most from the larger RIDYHEW dictionary, and is often able to find a solution with the fewest number of words using all the letters. 
 * Typically this script will find multiple solutions
 * Remember: Not all RIDYHEW dictionary words are legal for this game, the free dictionaries are incomplete, and the Oxford Dictionary costs you money.
 
