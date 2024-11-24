@@ -31,7 +31,9 @@ dictionlist = "https://www.wordgamedictionary.com/english-word-list/download/eng
 # Therefore, they are not an option.
 
 # as a response to the inability to use the Intellectualy Property Protected Dictionaries, legally,
-# another dictionary was sought... RIDYHEW (Ridiculously Huge English Word List) is the best answer I've found.
+# another dictionary was sought...
+#
+# Best Answer, RIDYHEW (Ridiculously Huge English Word List) is the best I've found.
 # The appropriate release is posted here -->  https://codehappy.net/wordlist/ridyhew.zip
 # Download the zip, post your version somewhere, and then replace the URL here...
 # dictionlist = "https://yoursite.com/hosting/yourRIDYHEW.txt"
